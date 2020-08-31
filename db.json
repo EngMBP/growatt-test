@@ -1,0 +1,36 @@
+{
+    "plantMoneyText": "0.00/$",
+    "optimizerType": 0,
+    "ammeterType": "0",
+    "storagePgrid": "0",
+    "todayEnergy": "0",
+    "storageTodayPpv": "0",
+    "invTodayPpv": "0",
+    "totalEnergy": "30.2",
+    "nominalPower": 0,
+    "todayDischarge": "0",
+    "Co2Reduction": "30.11",
+    "isHaveOptimizer": 0,
+    "storagePuser": "0",
+    "useEnergy": "0",
+    "totalMoneyText": "0",
+    "nominal_Power": 2,
+    "deviceList": [
+        {
+            "lost": true,
+            "location": "",
+            "datalogSn": "JPC493127F",
+            "deviceSn": "OHB481205A",
+            "deviceStatus": "-1",
+            "pCharge": "0",
+            "activePower": "5.9",
+            "deviceAilas": "OHB481205A",
+            "deviceType": "storage",
+            "storageType": "2",
+            "eChargeToday": "0",
+            "apparentPower": "5000",
+            "capacity": "30 %",
+            "energy": "30.2"
+        }
+    ]
+}
